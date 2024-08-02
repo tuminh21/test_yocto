@@ -4,6 +4,6 @@
 int main()
 {
     printf("Hello World");
-
+    mylib_function();
     return 0;
 }
