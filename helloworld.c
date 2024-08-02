@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "helloworld.h"
 
-void mylib_function();
+extern void mylib_function();
 
 
 int main()
